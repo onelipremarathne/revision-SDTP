@@ -1,4 +1,4 @@
-const characters = ["Garfield", "Odie", "Nermal", "Pooky", "Jon"];
+const characters = ["Garfield", "Odie", "Nermal", "Pooky", "Jon", "Ben10", "Gwen","Max","Kevin"];
 
 const select = document.getElementById("characterSelect");
 const img = document.getElementById("characterImage");
